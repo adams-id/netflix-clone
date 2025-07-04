@@ -52,13 +52,13 @@ cd netflix-clone
 
 ### 2. Install Dependencies
 
-# In the root directory
+In the root directory, run
 
 ```bash
 npm install
 ```
 
-# Then install frontend dependencies
+Then install frontend dependencies
 
 ```bash
 cd frontend
