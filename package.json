@@ -4,8 +4,8 @@
   "description": "A full-featured Netflix clone with React, Node.js, MongoDB, and TMDb API integration",
   "main": "index.js",
   "scripts": {
-    "dev": "node --watch backend/server.js",
-    "start": "node backend/server.js",
+    "dev": "NODE_ENV=development node --watch backend/server.js",
+    "start": "NODE_ENV=production node backend/server.js",
     "build": "npm install && npm install --prefix frontend && npm run build --prefix frontend"
   },
   "keywords": [],
