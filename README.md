@@ -12,7 +12,7 @@ This Netflix Clone is a feature-rich streaming app that allows users to browse, 
 
 ## 📌 Live Demo
 
-🔗 View the Live App Here
+🔗 View the live app here
 (Replace with your actual deployment link)
 
 ---
@@ -120,5 +120,5 @@ The backend app will be live at http://localhost:5000
 
 ### 🙌 Acknowledgements
 
-- TMDb API()
-- Netflix for UI/UX inspiration
+- **[TMDb (The Movie Database) API](https://www.themoviedb.org/)** — for providing the movie and TV show data used throughout the app.
+- **Netflix** — for inspiring the design, layout, and overall user experience of the platform.
