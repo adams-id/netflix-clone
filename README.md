@@ -12,8 +12,7 @@ This Netflix Clone is a feature-rich streaming app that allows users to browse, 
 
 ## 📌 Live Demo
 
-🔗 View the live app here
-(Replace with your actual deployment link)
+🔗 View the live app here [here](https://netflix-clone-cde6.onrender.com)
 
 ---
 
